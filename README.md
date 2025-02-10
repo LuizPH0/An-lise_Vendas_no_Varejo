@@ -1,2 +1,2 @@
-# An-lise_Vendas_no_Varejo
+# Análise de Vendas no Varejo
 Projeto de análise de dados feito por mim utilizando base pública de um mercado coletada no Kaggle.
